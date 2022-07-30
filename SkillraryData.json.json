@@ -1,0 +1,29 @@
+{
+   "Module":"AddCourse"
+   "Courses":[
+                {
+                    "courseid":001,
+                    "courseName":"Appium",
+                    "price":7500.00,
+                    "Topic":[
+                               {
+                                  "Chapter":"DesiredCapabillity",
+                                  "Page":52
+                               },
+                               {
+                                  "Chapter":"SauceLab"
+                                  "Page":54
+                               }
+                             ]
+                 },
+                         
+                 {
+                      "courseid":002,
+                      "courseName":CloudService",
+                      "price":6500.00,
+                      "Topic":{
+                                 "Chapter":"AWS",
+                                 "Page":12
+                              }
+                  }
+}
